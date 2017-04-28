@@ -17,6 +17,7 @@ namespace SQLiteSample
             {
                 Console.WriteLine("usage: <file_name>");
                 Console.WriteLine("file_name : is a path to file, which will be used to initialize a table");
+                return;
             }
             try
             {
